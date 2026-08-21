@@ -15,7 +15,7 @@ This project delivers a complete machine learning lifecycle solution:
 7. **Interview Q&A**: In-depth answers to core binary classification technical interview questions.
 
 ---
-  **LIVE DEMO :** [(https://titanic-logistic-regression-94bctmxdfaoypxokoqkuv7.streamlit.app/)](https://titanic-logistic-regression-94bctmxdfaoypxokoqkuv7.streamlit.app/ )
+  **LIVE DEMO :** [https://titanic-logistic-regression-94bctmxdfaoypxokoqkuv7.streamlit.app/](https://titanic-logistic-regression-94bctmxdfaoypxokoqkuv7.streamlit.app/ )
 ## 📂 Repository Structure
 ```
 ├── Titanic_train.csv                   # Raw training dataset (891 records)
