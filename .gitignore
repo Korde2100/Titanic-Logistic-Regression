@@ -1,0 +1,18 @@
+﻿# Virtual‑environment folder
+venv/
+
+# Data / model files – include them only if they are < 100 MB
+#*.pkl
+#*.csv
+
+# Python byte‑code caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment / secret files
+.env
+.venv/
+env/
+venv/
+Logistic Regression/
